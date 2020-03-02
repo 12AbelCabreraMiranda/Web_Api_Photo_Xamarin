@@ -1,0 +1,12 @@
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\bin\Debug\netstandard2.0\WebApiTest.deps.json
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\bin\Debug\netstandard2.0\WebApiTest.dll
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.csprojAssemblyReference.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.AssemblyInfoInputs.cache
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.AssemblyInfo.cs
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\bin\Debug\netstandard2.0\WebApiTest.pdb
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.dll
+C:\Users\AbelCabreraMiranda\Documents\Xamarin-Mobile\WebApiTest\WebApiTest\WebApiTest\obj\Debug\netstandard2.0\WebApiTest.pdb
